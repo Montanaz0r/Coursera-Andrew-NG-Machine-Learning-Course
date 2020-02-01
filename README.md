@@ -8,7 +8,7 @@ If you are interested in Machine Learning, I highly encourage you to take this c
 
 # Grade
 
-!.[Grade].(ML grade.png)
+!.[grade].(ML grade.PNG)
 
 # Contact
 
